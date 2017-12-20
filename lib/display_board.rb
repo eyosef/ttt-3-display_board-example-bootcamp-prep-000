@@ -5,9 +5,10 @@ def display_board
  
   cell1 = "   |   |   "
   divider1 = "-----------"
-  cell2 = "   |   |   "
-  divider2 = "-----------"
-  cell3 = "   |   |   "
+  cell1 = "   |   |   "
+  divider1 = "-----------"
+  cell1 = "   |   |   "
+  divider1 = "-----------"
   
   puts "A Tic Tac Toe Board"
   puts cell1
