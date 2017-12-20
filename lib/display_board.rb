@@ -18,6 +18,7 @@ def display_board
   puts cell2
   puts divider2
   puts cell3
-  
+  puts divider3
+  puts cell4
 end 
 display_board
