@@ -8,8 +8,8 @@ def display_board
   cell2 = "   |   |   "
   divider2 = "-----------"
   cell3 = "   |   |   "
-  divider2 = "-----------"
-  cell3 = "   |   |   "  
+  divider3 = "-----------"
+  cell4 = "   |   |   "  
   
   
   puts "A Tic Tac Toe Board"
