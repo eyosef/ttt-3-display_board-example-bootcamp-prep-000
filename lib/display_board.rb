@@ -10,7 +10,6 @@ def display_board
   cell3 = "   |   |   "
   
   puts "A Tic Tac Toe Board"
-  puts cellrow1
   puts cell1
   puts divider1
   puts cell2
